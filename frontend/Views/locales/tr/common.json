@@ -1,0 +1,61 @@
+{
+    "app": {
+        "loading": "Yükleniyor...",
+        "logout": "Çıkış Yap",
+        "joined": "Katılım:"
+    },
+    "auth": {
+        "interconnect": "InterConnect",
+        "login": "Giriş Yap",
+        "email": "E-posta",
+        "password": "Şifre"
+    },
+    "profile": {
+        "edit": "Düzenle",
+        "connections": "Bağlantılar",
+        "experiences": "Deneyimler",
+        "education": "Eğitim",
+        "skills": "Yetenekler",
+        "achievements": "Başarılar",
+        "languages": "Diller",
+        "fullName": "Ad soyad",
+        "city": "Şehir",
+        "country": "Ülke",
+        "description": "Açıklama",
+        "profilePic": "Profil görseli URL'si"
+    },
+    "experience": {
+        "company": "Şirket",
+        "title": "Pozisyon",
+        "startDate": "Başlangıç tarihi",
+        "endDate": "Bitiş tarihi",
+        "logoUrl": "Logo URL'si"
+    },
+    "education": {
+        "school": "Okul",
+        "degree": "Derece",
+        "startYear": "Başlangıç yılı",
+        "endYear": "Bitiş yılı",
+        "activities": "Aktiviteler",
+        "at": "-"
+    },
+    "skill": {
+        "name": "Yetenek adı"
+    },
+    "language": {
+        "name": "Dil"
+    },
+    "achievement": {
+        "title": "Başlık",
+        "year": "Yıl"
+    },
+    "common": {
+        "new": "Yeni",
+        "edit": "Düzenle",
+        "save": "Kaydet",
+        "cancel": "Iptal",
+        "delete": "Sil",
+        "present": "Şu an",
+        "noData": "Henüz kayıt yok."
+    }
+}

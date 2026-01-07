@@ -1,0 +1,61 @@
+{
+    "app": {
+        "loading": "Loading...",
+        "logout": "Logout",
+        "joined": "Joined:"
+    },
+    "auth": {
+        "interconnect": "InterConnect",
+        "login": "Login",
+        "email": "Email",
+        "password": "Password"
+    },
+    "profile": {
+        "edit": "Edit",
+        "connections": "Connections",
+        "experiences": "Experiences",
+        "education": "Education",
+        "skills": "Skills",
+        "achievements": "Achievements",
+        "languages": "Languages",
+        "fullName": "Full name",
+        "city": "City",
+        "country": "Country",
+        "description": "Description",
+        "profilePic": "Profile image URL"
+    },
+    "experience": {
+        "company": "Company",
+        "title": "Title",
+        "startDate": "Start date",
+        "endDate": "End date",
+        "logoUrl": "Logo URL"
+    },
+    "education": {
+        "school": "School",
+        "degree": "Degree",
+        "startYear": "Start year",
+        "endYear": "End year",
+        "activities": "Activities",
+        "at": "at"
+    },
+    "skill": {
+        "name": "Skill name"
+    },
+    "language": {
+        "name": "Language"
+    },
+    "achievement": {
+        "title": "Title",
+        "year": "Year"
+    },
+    "common": {
+        "new": "New",
+        "edit": "Edit",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "present": "Present",
+        "noData": "No items yet."
+    }
+}
