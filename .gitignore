@@ -1,45 +1,166 @@
-# OS & editor
+# =========================
+# OS Generated Files
+# =========================
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+desktop.ini
+
+# =========================
+# Editor & IDE
+# =========================
 .vscode/
 !.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
 .idea/
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*~
 
-# Root node & tooling
+# =========================
+# Node.js
+# =========================
 node_modules/
-dist/
-
-# Env files & secrets
-.env
-.env.*
-
-# Logs
-logs/
-*.log
 npm-debug.log*
 yarn-debug.log*
+yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+.pnpm-store/
+.npm/
+.yarn/
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
 
-# .NET build artifacts (any project)
+# =========================
+# Environment & Secrets
+# =========================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# =========================
+# .NET / C#
+# =========================
+# Build results
 **/bin/
 **/obj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]uild[Ll]og.*
 
 # Visual Studio
-*.user
-*.suo
-*.sw?
 .vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.cache
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.vspscc
+*.vssscc
+.builds
 
-# SQLite databases
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+nuget.exe
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# =========================
+# SQLite Databases
+# =========================
 *.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
 backend/WebApplication1/oplog.db
 
-# Frontend build
+# =========================
+# Frontend / Vite
+# =========================
 frontend/node_modules/
 frontend/dist/
 frontend/dist-ssr/
+*.local
 
-# Misc
+# =========================
+# Testing & Coverage
+# =========================
 coverage/
+*.lcov
+.nyc_output/
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+*.coverage
+*.coveragexml
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+crash-report-*.json
+
+# =========================
+# Misc
+# =========================
 .tmp/
+temp/
+*.bak
+*.backup
+
+# Package manager locks (uncomment if you don't want to commit)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
