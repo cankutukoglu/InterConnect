@@ -6,7 +6,7 @@
 [![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite)](https://vitejs.dev/)
 [![MUI](https://img.shields.io/badge/MUI-7-007FFF?logo=mui)](https://mui.com/)
 
-A LinkedIn-style profile management application where users can create and manage their professional profiles including experience, education, skills, achievements, and languages.
+A LinkedIn-style profile management case-study where users can manage their professional profiles including experience, education, skills, achievements, and languages.
 
 ## Features
 
